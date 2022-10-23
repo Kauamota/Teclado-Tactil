@@ -20,7 +20,8 @@ As fitas LEDs serã coladas em uma superfície lisa de 100x40cm (por enquanto pa
 (1) Caixa de Som;<br />
 (12) Fitas Led;<br />
 (1) Suporte Painel;<br />
-(12) Botões;
+(12) Botões;<br />
+(12) Molas;
 
 
 <a href="https://www.instagram.com/teclado.tactil/" target="_blank">
