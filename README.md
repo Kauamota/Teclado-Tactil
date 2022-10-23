@@ -4,7 +4,7 @@ Teclado Táctil para reabilitação fisioterapêutica infantojuvenil <br />
 <p align="justify">Um teclado de chão com teclas de madeira nos tamanhos 15x35(sustenidos) e 15x40(brancas), que enviam sinal para 12 barras LED, de 30cm cada, contendo 30 LEDs por fita, que farão um efeito de luz (um para cada botão), em conjunto com um acrílico difusor em sua frente para melhor efeito visual. 
 As fitas LEDs serã coladas em uma superfície lisa de 100x40cm (por enquanto papelão preto), e será suspenso por um suporte(atualmente Pallets).</p>
 
-<img src="" />
+<img src="https://github.com/Kauamota/Teclado-tatil/blob/master/img/teclado-img.png" />
 
 
 ### Patrocínios 
