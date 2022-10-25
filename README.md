@@ -2,7 +2,8 @@
 Teclado Táctil para reabilitação fisioterapêutica infantojuvenil <br />
 
 <p align="justify">Um teclado de chão com teclas de madeira nos tamanhos 15x35(sustenidos) e 15x40(brancas), que enviam sinal para 12 barras LED, de 30cm cada, contendo 30 LEDs por fita, que farão um efeito de luz (um para cada botão), em conjunto com um acrílico difusor em sua frente para melhor efeito visual. 
-As fitas LEDs serã coladas em uma superfície lisa de 100x40cm (por enquanto papelão preto), e será suspenso por um suporte(atualmente Pallets).</p>
+As fitas LEDs serã coladas em uma superfície lisa de 100x40cm (por enquanto papelão preto), e será suspenso por um suporte(atualmente Pallets). 
+
 
 <img src="https://github.com/Kauamota/Teclado-tatil/blob/master/img/teclado-img.png" />
 
@@ -22,6 +23,9 @@ As fitas LEDs serã coladas em uma superfície lisa de 100x40cm (por enquanto pa
 (1) Suporte Painel;<br />
 (12) Botões;<br />
 (12) Molas;
+
+# Funcionamento
+A "cabeça" que controla todo o projeto são dois Arduinos, que é uma placa de prototipagem eletrônica composta pelo microcontrolador Atmel. Em outras palavras, é um mini computador que pode ser programado para controlar circuitos de entrada e saída de sinal conforme você desejar. Cada tecla envia um sinal para os dois Arduinos, a onde um controla as fitas LED's e outro controla a nota de cada tecla, com cada nota sendo basicamente uma frequência específica que o Arduino envia para a caixa de som, produzindo assim o som de cada nota que o teclado emite.<br />
 
 
 <a href="https://www.instagram.com/teclado.tactil/" target="_blank">
