@@ -12,7 +12,7 @@ Teclado Táctil para reabilitação fisioterapêutica infantojuvenil <br />
 ### Patrocínios 
 
 <b>Geral:</b> Sylvamo e Instituto Chamex; <br />
-<b>Teclas:</b> Cobertura & Cia; <br />
+<b>Teclas:</b> Madeireira Cobertura & Cia; <br />
 <b>Molas:</b> Retifica Unnimac; <br />
 <b>Tinta:</b> Construagro Lopes
 
@@ -26,6 +26,7 @@ Teclado Táctil para reabilitação fisioterapêutica infantojuvenil <br />
 (12) Molas;<br />
 (2) Arduínos;<br />
 (1) Placa de Fenolite;<br />
+(1) Computador para alimentação<br />
 
 ## Funcionamento
 A "cabeça" que controla todo o projeto são dois Arduinos, que é uma placa de prototipagem eletrônica composta pelo microcontrolador Atmel. Em outras palavras, é um mini computador que pode ser programado para controlar circuitos de entrada e saída de sinal conforme você desejar. Cada tecla envia um sinal para os dois Arduinos, a onde um controla as fitas LED's e outro controla a nota de cada tecla, com cada nota sendo basicamente uma frequência específica que o Arduino envia para a caixa de som, produzindo assim o som de cada nota que o teclado emite.<br />
