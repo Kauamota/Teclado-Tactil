@@ -50,7 +50,9 @@ A "cabeça" que controla todo o projeto são dois Arduinos, que é uma placa de 
  - Isaac Guilherme Rosa;
  - Kauã Mota Santos;
  - Ana Júlia Zanchetta;
- - Eduardo Francisco da Luz
+ - Eduardo Francisco da Luz;
+ - Matheus Mello 
+ - Vitor Carvalho da Silva
  
  <a href="https://www.instagram.com/teclado.tactil/" target="_blank">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
